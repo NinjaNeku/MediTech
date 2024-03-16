@@ -1,7 +1,7 @@
 
 MediTech
 
-Welcome to MediTech, your friendly healthcare companion! MediTech is an innovative project that emerged victorious in a recent hackathon, built with ReactJS, Semantic-UI, ExpressJS, and MongoDB. It integrates cutting-edge AI chatbot technology with a user-friendly interface to provide a seamless healthcare experience. Whether you're scheduling appointments, seeking admission, or consulting with healthcare professionals, MediTech has got you covered.
+Welcome to MediTech, your friendly healthcare companion! MediTech is an innovative project built with ReactJS, Semantic-UI, ExpressJS, and MongoDB. It integrates cutting-edge AI chatbot technology with a user-friendly interface to provide a seamless healthcare experience. Whether you're scheduling appointments, seeking admission, or consulting with healthcare professionals, MediTech has got you covered.
 
 Features:
 
